@@ -1,5 +1,9 @@
 # Manufacturing Anaylsis Using SQL
  In this project, I will be analyzing data from The AHG Sales Database . This data set contains  rows and the following column attributes:
+ Manufacturing
+ Supply Chain
+ Customer Demography,
+ Location
 developed a solution framework for the entire project using the CRISP-DM methodology structure.
 ▪ carried out data extrapolation & consolidation, data manipulation, data cleaning, dealt with missing 
 records, purged and consolidated data for analysis, and selected appropriate visualization techniques.
